@@ -1,0 +1,48 @@
+
+.author{
+  font-weight: normal;
+  font-variant: small-caps;
+  font-size: 27px;
+}
+
+.quote-box{
+  box-shadow: 3px 3px 3px lightgray;
+  height: 30vh;
+}
+
+.btn{
+  margin-top: 5% !important;
+  border: none !important;
+  width: 100% !important;
+  padding: 27px !important;
+  border-radius: 0 !important;
+  border: 0 !important;
+  font-variant: small-caps !important;
+  line-height: 10px !important;
+  letter-spacing: 5px !important;
+}
+
+.btn: clicked{
+  border:0 !important;
+}
+
+.footer{
+  background-color: #8B0000;
+  padding: 7px;
+  margin-top: 6%;
+  color: white;
+  text-align: center;
+  opacity: 0.9;
+}
+
+.footer:hover{
+opacity: 1;
+}
+
+h1{
+  font-family: 'Merienda One', cursive;
+}
+
+p{
+  margin-top: 1.5%;
+}
